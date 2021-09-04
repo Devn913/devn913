@@ -20,4 +20,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devn913&" alt="devn913" /></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4vahl12pu8cu7xsh4ieild35t&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4vahl12pu8cu7xsh4ieild35t&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
