@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dev Nirwal</h1>
 <h3 align="center">A passionate backend developer from India</h3>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23000000A1&center=true&lines=Welcome+to+my+GitHub)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devn913&label=Profile%20views&color=0e75b6&style=flat" alt="devn913" /> </p>
