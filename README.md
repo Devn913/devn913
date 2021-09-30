@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devn913&label=Profile%20views&color=0e75b6&style=flat" alt="devn913" /> </p>
 
-- 🌱 I’m currently learning **DSA, Laravel**
+- 🌱 I’m currently learning **DSA, PHP, Laravel**
 
 - 💬 Ask me about **Python**
 
