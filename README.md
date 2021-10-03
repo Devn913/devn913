@@ -21,10 +21,10 @@
 
 <h2 aling="center"> Leetcode: </h2>
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=devn007&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+<p align="center"> [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=devn007&theme=dark)](https://github.com/KnlnKS/leetcode-stats)</p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devn913&" alt="devn913" /></p>
+<p aling ="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devn913&" alt="devn913" /></p>
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4vahl12pu8cu7xsh4ieild35t&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+<p aling ="center"> [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4vahl12pu8cu7xsh4ieild35t&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile) </p>
