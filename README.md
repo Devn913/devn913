@@ -24,7 +24,24 @@
  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=devn007&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devn913&" alt="devn913" />
+### Github Profile Trophy
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=devn913&theme=monokai&row=1&no-frame=true&no-bg=true" align="center" />
 
+
+
+<p align="center">
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api?username=devn913&show_icons=true&hide_border=true"
+    />
+    <img
+        height="180em"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=devn913&show_icons=true&hide_border=true&layout=compact&langs_count=8"
+    />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devn913&hide_border=true" height="180em" />
+</p>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4vahl12pu8cu7xsh4ieild35t&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
