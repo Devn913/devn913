@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Multilingual and Culturally Customized Knowledge Management for Legal Information Processing and Management](https://www.semintelligence.org/projects)
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **DSA, Flask**
 
 - 📫 How to reach me **devnirwal16@gmail.com**
 
