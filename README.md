@@ -49,9 +49,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devn913&hide_border=true" height="180em" />
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=4vahl12pu8cu7xsh4ieild35t&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4vahl12pu8cu7xsh4ieild35t&redirect=true) 
-
-
 ### Contribution Graph
    <br/>
    <img src="https://activity-graph.herokuapp.com/graph?username=devn913&theme=xcode" alt="Contribution Graph" align="center" />
