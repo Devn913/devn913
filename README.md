@@ -5,7 +5,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=devn913&label=Profile%20views&color=0e75b6&style=flat" alt="devn913" /> </p>
 
 
-- 🔭 I’m currently working on [Multilingual and Culturally Customized Knowledge Management for Legal Information Processing and Management](https://www.semintelligence.org/projects)
 
 - 🌱 I’m currently learning **DSA**
 
