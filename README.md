@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **devnirwal16@gmail.com**
 
