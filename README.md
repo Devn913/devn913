@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **devnirwal16@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1RbBBs3p_usq3pvh_pkGZwye0qdvWSkMKi-g7zNaCBl8/edit?usp=sharing](https://docs.google.com/document/d/1RbBBs3p_usq3pvh_pkGZwye0qdvWSkMKi-g7zNaCBl8/edit?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1GYgGwasAX0E608jzEFKFIPCh9aA9_1yl/view?usp=share_link)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
