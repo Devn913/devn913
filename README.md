@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **devnirwal16@gmail.com**
 
-- 📄 Know about my experiences [CV](https://rxresu.me/devnirwal16/dev-nirwal)
 
 - Buy me a coffee(Support): [Donate](https://buymeacoffee.com/devn__007)
 
